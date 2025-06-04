@@ -1,5 +1,9 @@
 # Desafio do curso criando um gerador de frases
-
+@oraclenexteducation 
+@SouEstudanteEmFormacaoONEG8 
+@Alura 
+@Jacquline Oliveira 
+@Iasmim Araújo
 ## Configuração do ambiente
 * java 21
 * Java JDK: https://www.oracle.com/br/java/technologies/downloads/
